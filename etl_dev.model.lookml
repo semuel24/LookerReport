@@ -11,7 +11,7 @@
 #   joins:
 #     - join: bm_monarch_device_filter
 #       foreign_key: bm_monarch_device_filter_id
-
+ 
 
 # - explore: daily_accumulated_user_kid_by_device_type
 
